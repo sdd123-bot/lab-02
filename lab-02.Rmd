@@ -1,6 +1,10 @@
 ---
 title: "Lab 02 - Global plastic waste"
+<<<<<<< HEAD
 author: "Team Name: Brinlynee, Chuqing shi, Dora123, JUNHAO SHAN"
+=======
+author: "Team Name: Brinlynee, Chuqing shi, Dora, JUNHAO SHAN，Zhangshuchen77777"
+>>>>>>> b7e60cc1d517a0fb9837ea98b28e3154d34def9a
 date: "`r Sys.Date()`"
 output: html_document
 ---
